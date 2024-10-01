@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtpqml': Conditional fixed-effects Poisson (Quasi-ML) regression with robust standard errors Use xtpqml With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtpqml.ado
+f xtpqml.hlp
