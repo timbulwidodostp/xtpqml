@@ -1,6 +1,8 @@
 # xtpqml
 Conditional fixed-effects Poisson (Quasi-ML) regression with robust standard errors Use xtpqml With STATA 18
 
+https://www.youtube.com/watch?v=WPmx-wYbfnM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
